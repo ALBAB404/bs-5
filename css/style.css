@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+a{
+    text-decoration: none;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1140px ;
+}
+
+
+/* ...............header........section start..........  */
+
+
+.s-card{padding: 130px 0;}
+
+
